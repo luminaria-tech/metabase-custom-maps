@@ -17,12 +17,19 @@ regenerate and merge it there, copy the files here, and point Metabase at the ne
 Each feature carries `region_key` (`<country_name>:<state_code>`, the key dashboards join on) and `state_name`.
 Boundaries come from geoBoundaries ADM1 (open data).
 
+| `usa_counties_final.geojson` | USA county boundaries (3 159 counties, US Census cartographic boundary file `gz_2010_us_050_00_500k`, public domain), keyed by `GEOID`; byte-for-byte copy of `msk01yo/Map/counties_final.geojson` — not generated in `data-processing` |
+
 ## Metabase
 
 The combined file backs custom map `8d0a5763-dc84-f13f-467f-ea433d3df292` ("SPAM state-level admin1",
 Admin → Settings → Maps) with `region_key = region_key` and `region_name = state_name`. Its URL is pinned to a
 commit of this repository so a later push cannot change what dashboards render until Metabase is pointed at it.
 
-History: until 2026-10-27 the map was served from a personal repository outside the organisation
+The per-country files back the maps "SPAM state-level Brazil" (`638b8226…`), "SPAM state-level USA" (`7e07c679…`)
+and "SPAM state-level Russia" (`472d0659…`), same field names. `usa_counties_final.geojson` backs the county map
+"Final Map" (`8d9984e9-e50a-f48d-82f5-d86afc4b5546`, `region_key = GEOID`, `region_name = NAME`), used by the USA
+county weather and USDA map cards.
+
+History: until 2026-10-27 the state-level maps were served from a personal repository outside the organisation
 (`Sindbag/metabase-custom-maps`, five countries, 264 regions; risk RSK-378). Moved here from
 `luminaria-tech/data-processing@dd1e461a` (`DDL/dashboard/metabase/maps/`).
