@@ -1,0 +1,2875 @@
+{
+  "countries": {
+    "USA": {
+      "source_iso": "USA",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM1/geoBoundaries-USA-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 50,
+      "skipped_source_features": [
+        "Puerto Rico",
+        "Alaska",
+        "American Samoa",
+        "United States Virgin Islands",
+        "Guam",
+        "Commonwealth of the Northern Mariana Islands"
+      ],
+      "unmatched_db_state_names": [
+        "Other States",
+        "US total"
+      ],
+      "features": [
+        {
+          "region_key": "USA:28",
+          "country_name": "USA",
+          "state_code": "28",
+          "state_name": "Mississippi",
+          "source_name": "Mississippi",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:37",
+          "country_name": "USA",
+          "state_code": "37",
+          "state_name": "North Carolina",
+          "source_name": "North Carolina",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:40",
+          "country_name": "USA",
+          "state_code": "40",
+          "state_name": "Oklahoma",
+          "source_name": "Oklahoma",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:51",
+          "country_name": "USA",
+          "state_code": "51",
+          "state_name": "Virginia",
+          "source_name": "Virginia",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:54",
+          "country_name": "USA",
+          "state_code": "54",
+          "state_name": "West Virginia",
+          "source_name": "West Virginia",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:22",
+          "country_name": "USA",
+          "state_code": "22",
+          "state_name": "Louisiana",
+          "source_name": "Louisiana",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:26",
+          "country_name": "USA",
+          "state_code": "26",
+          "state_name": "Michigan",
+          "source_name": "Michigan",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:25",
+          "country_name": "USA",
+          "state_code": "25",
+          "state_name": "Massachusetts",
+          "source_name": "Massachusetts",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:16",
+          "country_name": "USA",
+          "state_code": "16",
+          "state_name": "Idaho",
+          "source_name": "Idaho",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:12",
+          "country_name": "USA",
+          "state_code": "12",
+          "state_name": "Florida",
+          "source_name": "Florida",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:31",
+          "country_name": "USA",
+          "state_code": "31",
+          "state_name": "Nebraska",
+          "source_name": "Nebraska",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:53",
+          "country_name": "USA",
+          "state_code": "53",
+          "state_name": "Washington",
+          "source_name": "Washington",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:35",
+          "country_name": "USA",
+          "state_code": "35",
+          "state_name": "New Mexico",
+          "source_name": "New Mexico",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:46",
+          "country_name": "USA",
+          "state_code": "46",
+          "state_name": "South Dakota",
+          "source_name": "South Dakota",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:48",
+          "country_name": "USA",
+          "state_code": "48",
+          "state_name": "Texas",
+          "source_name": "Texas",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:06",
+          "country_name": "USA",
+          "state_code": "06",
+          "state_name": "California",
+          "source_name": "California",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:01",
+          "country_name": "USA",
+          "state_code": "01",
+          "state_name": "Alabama",
+          "source_name": "Alabama",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:13",
+          "country_name": "USA",
+          "state_code": "13",
+          "state_name": "Georgia",
+          "source_name": "Georgia",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:42",
+          "country_name": "USA",
+          "state_code": "42",
+          "state_name": "Pennsylvania",
+          "source_name": "Pennsylvania",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:29",
+          "country_name": "USA",
+          "state_code": "29",
+          "state_name": "Missouri",
+          "source_name": "Missouri",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:08",
+          "country_name": "USA",
+          "state_code": "08",
+          "state_name": "Colorado",
+          "source_name": "Colorado",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:49",
+          "country_name": "USA",
+          "state_code": "49",
+          "state_name": "Utah",
+          "source_name": "Utah",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:47",
+          "country_name": "USA",
+          "state_code": "47",
+          "state_name": "Tennessee",
+          "source_name": "Tennessee",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:56",
+          "country_name": "USA",
+          "state_code": "56",
+          "state_name": "Wyoming",
+          "source_name": "Wyoming",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:36",
+          "country_name": "USA",
+          "state_code": "36",
+          "state_name": "New York",
+          "source_name": "New York",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:20",
+          "country_name": "USA",
+          "state_code": "20",
+          "state_name": "Kansas",
+          "source_name": "Kansas",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:32",
+          "country_name": "USA",
+          "state_code": "32",
+          "state_name": "Nevada",
+          "source_name": "Nevada",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:17",
+          "country_name": "USA",
+          "state_code": "17",
+          "state_name": "Illinois",
+          "source_name": "Illinois",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:50",
+          "country_name": "USA",
+          "state_code": "50",
+          "state_name": "Vermont",
+          "source_name": "Vermont",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:30",
+          "country_name": "USA",
+          "state_code": "30",
+          "state_name": "Montana",
+          "source_name": "Montana",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:19",
+          "country_name": "USA",
+          "state_code": "19",
+          "state_name": "Iowa",
+          "source_name": "Iowa",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:45",
+          "country_name": "USA",
+          "state_code": "45",
+          "state_name": "South Carolina",
+          "source_name": "South Carolina",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:33",
+          "country_name": "USA",
+          "state_code": "33",
+          "state_name": "New Hampshire",
+          "source_name": "New Hampshire",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:04",
+          "country_name": "USA",
+          "state_code": "04",
+          "state_name": "Arizona",
+          "source_name": "Arizona",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:11",
+          "country_name": "USA",
+          "state_code": "11",
+          "state_name": "District of Columbia",
+          "source_name": "District of Columbia",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:34",
+          "country_name": "USA",
+          "state_code": "34",
+          "state_name": "New Jersey",
+          "source_name": "New Jersey",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:24",
+          "country_name": "USA",
+          "state_code": "24",
+          "state_name": "Maryland",
+          "source_name": "Maryland",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:23",
+          "country_name": "USA",
+          "state_code": "23",
+          "state_name": "Maine",
+          "source_name": "Maine",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:15",
+          "country_name": "USA",
+          "state_code": "15",
+          "state_name": "Hawaii",
+          "source_name": "Hawaii",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:10",
+          "country_name": "USA",
+          "state_code": "10",
+          "state_name": "Delaware",
+          "source_name": "Delaware",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:44",
+          "country_name": "USA",
+          "state_code": "44",
+          "state_name": "Rhode Island",
+          "source_name": "Rhode Island",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:21",
+          "country_name": "USA",
+          "state_code": "21",
+          "state_name": "Kentucky",
+          "source_name": "Kentucky",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:39",
+          "country_name": "USA",
+          "state_code": "39",
+          "state_name": "Ohio",
+          "source_name": "Ohio",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:55",
+          "country_name": "USA",
+          "state_code": "55",
+          "state_name": "Wisconsin",
+          "source_name": "Wisconsin",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:41",
+          "country_name": "USA",
+          "state_code": "41",
+          "state_name": "Oregon",
+          "source_name": "Oregon",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:38",
+          "country_name": "USA",
+          "state_code": "38",
+          "state_name": "North Dakota",
+          "source_name": "North Dakota",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:05",
+          "country_name": "USA",
+          "state_code": "05",
+          "state_name": "Arkansas",
+          "source_name": "Arkansas",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:18",
+          "country_name": "USA",
+          "state_code": "18",
+          "state_name": "Indiana",
+          "source_name": "Indiana",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:27",
+          "country_name": "USA",
+          "state_code": "27",
+          "state_name": "Minnesota",
+          "source_name": "Minnesota",
+          "source_iso": "USA"
+        },
+        {
+          "region_key": "USA:09",
+          "country_name": "USA",
+          "state_code": "09",
+          "state_name": "Connecticut",
+          "source_name": "Connecticut",
+          "source_iso": "USA"
+        }
+      ]
+    },
+    "Brazil": {
+      "source_iso": "BRA",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRA/ADM1/geoBoundaries-BRA-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 27,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Brazil:14",
+          "country_name": "Brazil",
+          "state_code": "14",
+          "state_name": "Roraima",
+          "source_name": "Roraima",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:16",
+          "country_name": "Brazil",
+          "state_code": "16",
+          "state_name": "Amapá",
+          "source_name": "Amapa",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:13",
+          "country_name": "Brazil",
+          "state_code": "13",
+          "state_name": "Amazonas",
+          "source_name": "Amazonas",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:15",
+          "country_name": "Brazil",
+          "state_code": "15",
+          "state_name": "Pará",
+          "source_name": "Para",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:21",
+          "country_name": "Brazil",
+          "state_code": "21",
+          "state_name": "Maranhão",
+          "source_name": "Maranhao",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:23",
+          "country_name": "Brazil",
+          "state_code": "23",
+          "state_name": "Ceará",
+          "source_name": "Ceara",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:24",
+          "country_name": "Brazil",
+          "state_code": "24",
+          "state_name": "Rio Grande do Norte",
+          "source_name": "Rio Granda do Norte",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:25",
+          "country_name": "Brazil",
+          "state_code": "25",
+          "state_name": "Paraíba",
+          "source_name": "Paraiba",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:22",
+          "country_name": "Brazil",
+          "state_code": "22",
+          "state_name": "Piauí",
+          "source_name": "Piaui",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:26",
+          "country_name": "Brazil",
+          "state_code": "26",
+          "state_name": "Pernambuco",
+          "source_name": "Pernambuco",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:27",
+          "country_name": "Brazil",
+          "state_code": "27",
+          "state_name": "Alagoas",
+          "source_name": "Alagoas",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:12",
+          "country_name": "Brazil",
+          "state_code": "12",
+          "state_name": "Acre",
+          "source_name": "Acre",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:11",
+          "country_name": "Brazil",
+          "state_code": "11",
+          "state_name": "Rondônia",
+          "source_name": "Rondonia",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:28",
+          "country_name": "Brazil",
+          "state_code": "28",
+          "state_name": "Sergipe",
+          "source_name": "Sergipe",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:17",
+          "country_name": "Brazil",
+          "state_code": "17",
+          "state_name": "Tocantins",
+          "source_name": "Tocantins",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:29",
+          "country_name": "Brazil",
+          "state_code": "29",
+          "state_name": "Bahia",
+          "source_name": "Bahia",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:51",
+          "country_name": "Brazil",
+          "state_code": "51",
+          "state_name": "Mato Grosso",
+          "source_name": "Mato Grosso",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:52",
+          "country_name": "Brazil",
+          "state_code": "52",
+          "state_name": "Goiás",
+          "source_name": "Goias",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:53",
+          "country_name": "Brazil",
+          "state_code": "53",
+          "state_name": "Distrito Federal",
+          "source_name": "Distrito Federal",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:31",
+          "country_name": "Brazil",
+          "state_code": "31",
+          "state_name": "Minas Gerais",
+          "source_name": "Minas Gerais",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:32",
+          "country_name": "Brazil",
+          "state_code": "32",
+          "state_name": "Espírito Santo",
+          "source_name": "Espirito Santo",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:50",
+          "country_name": "Brazil",
+          "state_code": "50",
+          "state_name": "Mato Grosso do Sul",
+          "source_name": "Mato Grosso do Sul",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:33",
+          "country_name": "Brazil",
+          "state_code": "33",
+          "state_name": "Rio de Janeiro",
+          "source_name": "Rio de Jeneiro",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:35",
+          "country_name": "Brazil",
+          "state_code": "35",
+          "state_name": "São Paulo",
+          "source_name": "Sao Paulo",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:41",
+          "country_name": "Brazil",
+          "state_code": "41",
+          "state_name": "Paraná",
+          "source_name": "Parana",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:42",
+          "country_name": "Brazil",
+          "state_code": "42",
+          "state_name": "Santa Catarina",
+          "source_name": "Santa Catarina",
+          "source_iso": "BRA"
+        },
+        {
+          "region_key": "Brazil:43",
+          "country_name": "Brazil",
+          "state_code": "43",
+          "state_name": "Rio Grande do Sul",
+          "source_name": "Rio Grande do Sul",
+          "source_iso": "BRA"
+        }
+      ]
+    },
+    "Russia": {
+      "source_iso": "RUS",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1_simplified.geojson",
+      "extra_source_urls": [
+        "https://geo2day.com/russia/southern_federal_district/crimea.geojson"
+      ],
+      "matched_feature_count": 74,
+      "skipped_source_features": [
+        "Khanty-Mansiysk Autonomous Okrug – Ugra",
+        "Moscow Oblast",
+        "Murmansk Oblast",
+        "Nenets Autonomous Okrug",
+        "Saint Petersburg",
+        "Sakhalin Oblast",
+        "Magadan Oblast",
+        "Yamalo-Nenets Autonomous Okrug",
+        "Kamchatka Krai",
+        "Chukotka Autonomous Okrug"
+      ],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Russia:02",
+          "country_name": "Russia",
+          "state_code": "02",
+          "state_name": "Altay Krai",
+          "source_name": "Altai Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:42",
+          "country_name": "Russia",
+          "state_code": "42",
+          "state_name": "Mordovia",
+          "source_name": "Republic of Mordovia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:70",
+          "country_name": "Russia",
+          "state_code": "70",
+          "state_name": "Tula",
+          "source_name": "Tula Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:36",
+          "country_name": "Russia",
+          "state_code": "36",
+          "state_name": "Kurgan",
+          "source_name": "Kurgan Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:17",
+          "country_name": "Russia",
+          "state_code": "17",
+          "state_name": "Ingushetia",
+          "source_name": "Ingushetia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:31",
+          "country_name": "Russia",
+          "state_code": "31",
+          "state_name": "Kirov",
+          "source_name": "Kirov Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:32",
+          "country_name": "Russia",
+          "state_code": "32",
+          "state_name": "Komi",
+          "source_name": "Komi Republic",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:33",
+          "country_name": "Russia",
+          "state_code": "33",
+          "state_name": "Kostroma",
+          "source_name": "Kostroma Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:35",
+          "country_name": "Russia",
+          "state_code": "35",
+          "state_name": "Krasnoyarsk",
+          "source_name": "Krasnoyarsk Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:83",
+          "country_name": "Russia",
+          "state_code": "83",
+          "state_name": "Zabaykalsk",
+          "source_name": "Zabaykalsky Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:66",
+          "country_name": "Russia",
+          "state_code": "66",
+          "state_name": "Sverdlovsk",
+          "source_name": "Sverdlovsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:77",
+          "country_name": "Russia",
+          "state_code": "77",
+          "state_name": "Volgograd",
+          "source_name": "Volgograd Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:18",
+          "country_name": "Russia",
+          "state_code": "18",
+          "state_name": "Irkutsk",
+          "source_name": "Irkutsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:55",
+          "country_name": "Russia",
+          "state_code": "55",
+          "state_name": "Perm",
+          "source_name": "Perm Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:57",
+          "country_name": "Russia",
+          "state_code": "57",
+          "state_name": "Pskov",
+          "source_name": "Pskov Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:58",
+          "country_name": "Russia",
+          "state_code": "58",
+          "state_name": "Rostov",
+          "source_name": "Rostov Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:59",
+          "country_name": "Russia",
+          "state_code": "59",
+          "state_name": "Ryazan",
+          "source_name": "Ryazan Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:01",
+          "country_name": "Russia",
+          "state_code": "01",
+          "state_name": "Adygea",
+          "source_name": "Adygea",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:62",
+          "country_name": "Russia",
+          "state_code": "62",
+          "state_name": "Samara",
+          "source_name": "Samara Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:29",
+          "country_name": "Russia",
+          "state_code": "29",
+          "state_name": "Khakasia",
+          "source_name": "Khakassia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:67",
+          "country_name": "Russia",
+          "state_code": "67",
+          "state_name": "Tambov",
+          "source_name": "Tambov Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:68",
+          "country_name": "Russia",
+          "state_code": "68",
+          "state_name": "Tatarstan",
+          "source_name": "Tatarstan",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:69",
+          "country_name": "Russia",
+          "state_code": "69",
+          "state_name": "Tomsk",
+          "source_name": "Tomsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:47",
+          "country_name": "Russia",
+          "state_code": "47",
+          "state_name": "N Novgorod",
+          "source_name": "Nizhny Novgorod Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:26",
+          "country_name": "Russia",
+          "state_code": "26",
+          "state_name": "Karelia",
+          "source_name": "Republic of Karelia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:04",
+          "country_name": "Russia",
+          "state_code": "04",
+          "state_name": "Archangelsk",
+          "source_name": "Arkhangelsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:05",
+          "country_name": "Russia",
+          "state_code": "05",
+          "state_name": "Astrakhan",
+          "source_name": "Astrakhan Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:07",
+          "country_name": "Russia",
+          "state_code": "07",
+          "state_name": "Belgorod",
+          "source_name": "Belgorod Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:08",
+          "country_name": "Russia",
+          "state_code": "08",
+          "state_name": "Bryansk",
+          "source_name": "Bryansk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:09",
+          "country_name": "Russia",
+          "state_code": "09",
+          "state_name": "Buryatiya",
+          "source_name": "Buryatia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:10",
+          "country_name": "Russia",
+          "state_code": "10",
+          "state_name": "Chechnya",
+          "source_name": "Chechnya",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:11",
+          "country_name": "Russia",
+          "state_code": "11",
+          "state_name": "Chelyabinsk",
+          "source_name": "Chelyabinsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:13",
+          "country_name": "Russia",
+          "state_code": "13",
+          "state_name": "Chuvashiya",
+          "source_name": "Chuvashia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:73",
+          "country_name": "Russia",
+          "state_code": "73",
+          "state_name": "Tyumen",
+          "source_name": "Tyumen Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:48",
+          "country_name": "Russia",
+          "state_code": "48",
+          "state_name": "N Osetia Alania",
+          "source_name": "North Ossetia–Alania",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:54",
+          "country_name": "Russia",
+          "state_code": "54",
+          "state_name": "Penza",
+          "source_name": "Penza Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:03",
+          "country_name": "Russia",
+          "state_code": "03",
+          "state_name": "Amur",
+          "source_name": "Amur Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:20",
+          "country_name": "Russia",
+          "state_code": "20",
+          "state_name": "Kabardino Balkaria",
+          "source_name": "Kabardino-Balkaria",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:34",
+          "country_name": "Russia",
+          "state_code": "34",
+          "state_name": "Krasnodar",
+          "source_name": "Krasnodar Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:37",
+          "country_name": "Russia",
+          "state_code": "37",
+          "state_name": "Kursk",
+          "source_name": "Kursk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:38",
+          "country_name": "Russia",
+          "state_code": "38",
+          "state_name": "Leningrad",
+          "source_name": "Leningrad oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:41",
+          "country_name": "Russia",
+          "state_code": "41",
+          "state_name": "Mariy El",
+          "source_name": "Mari El",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:43",
+          "country_name": "Russia",
+          "state_code": "43",
+          "state_name": "Moscow",
+          "source_name": "Moscow",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:49",
+          "country_name": "Russia",
+          "state_code": "49",
+          "state_name": "Novgorod",
+          "source_name": "Novgorod Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:50",
+          "country_name": "Russia",
+          "state_code": "50",
+          "state_name": "Novosibirsk",
+          "source_name": "Novosibirsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:51",
+          "country_name": "Russia",
+          "state_code": "51",
+          "state_name": "Omsk",
+          "source_name": "Omsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:52",
+          "country_name": "Russia",
+          "state_code": "52",
+          "state_name": "Orel",
+          "source_name": "Oryol Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:60",
+          "country_name": "Russia",
+          "state_code": "60",
+          "state_name": "Yakutia Sakha",
+          "source_name": "Sakha Republic",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:63",
+          "country_name": "Russia",
+          "state_code": "63",
+          "state_name": "Saratov",
+          "source_name": "Saratov Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:64",
+          "country_name": "Russia",
+          "state_code": "64",
+          "state_name": "Smolensk",
+          "source_name": "Smolensk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:65",
+          "country_name": "Russia",
+          "state_code": "65",
+          "state_name": "Stavropol",
+          "source_name": "Stavropol Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:71",
+          "country_name": "Russia",
+          "state_code": "71",
+          "state_name": "Tyva",
+          "source_name": "Tuva",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:72",
+          "country_name": "Russia",
+          "state_code": "72",
+          "state_name": "Tver",
+          "source_name": "Tver Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:74",
+          "country_name": "Russia",
+          "state_code": "74",
+          "state_name": "Udmurtiya",
+          "source_name": "Udmurtia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:23",
+          "country_name": "Russia",
+          "state_code": "23",
+          "state_name": "Kaluga",
+          "source_name": "Kaluga Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:39",
+          "country_name": "Russia",
+          "state_code": "39",
+          "state_name": "Lipetsk",
+          "source_name": "Lipetsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:75",
+          "country_name": "Russia",
+          "state_code": "75",
+          "state_name": "Ulyanovsk",
+          "source_name": "Ulyanovsk Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:76",
+          "country_name": "Russia",
+          "state_code": "76",
+          "state_name": "Vladimir",
+          "source_name": "Vladimir Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:78",
+          "country_name": "Russia",
+          "state_code": "78",
+          "state_name": "Vologda",
+          "source_name": "Vologda Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:81",
+          "country_name": "Russia",
+          "state_code": "81",
+          "state_name": "Yaroslavl",
+          "source_name": "Yaroslavl Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:79",
+          "country_name": "Russia",
+          "state_code": "79",
+          "state_name": "Voronezh",
+          "source_name": "Voronezh Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:16",
+          "country_name": "Russia",
+          "state_code": "16",
+          "state_name": "Republic Altay",
+          "source_name": "Altai Republic",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:19",
+          "country_name": "Russia",
+          "state_code": "19",
+          "state_name": "Ivanovo",
+          "source_name": "Ivanovo Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:82",
+          "country_name": "Russia",
+          "state_code": "82",
+          "state_name": "Jewish Ao",
+          "source_name": "Jewish Autonomous Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:22",
+          "country_name": "Russia",
+          "state_code": "22",
+          "state_name": "Kalmykia",
+          "source_name": "Kalmykia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:25",
+          "country_name": "Russia",
+          "state_code": "25",
+          "state_name": "Karachaevo Cherkessia",
+          "source_name": "Karachay-Cherkessia",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:27",
+          "country_name": "Russia",
+          "state_code": "27",
+          "state_name": "Kemerovo",
+          "source_name": "Kemerovo Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:28",
+          "country_name": "Russia",
+          "state_code": "28",
+          "state_name": "Khabarovsk",
+          "source_name": "Khabarovsk Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:15",
+          "country_name": "Russia",
+          "state_code": "15",
+          "state_name": "Dagestan",
+          "source_name": "Dagestan",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:21",
+          "country_name": "Russia",
+          "state_code": "21",
+          "state_name": "Kaliningrad",
+          "source_name": "Kaliningrad",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:53",
+          "country_name": "Russia",
+          "state_code": "53",
+          "state_name": "Orenburg",
+          "source_name": "Orenburg Oblast",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:56",
+          "country_name": "Russia",
+          "state_code": "56",
+          "state_name": "Primorsk Area",
+          "source_name": "Primorsky Krai",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:06",
+          "country_name": "Russia",
+          "state_code": "06",
+          "state_name": "Bashkortostan",
+          "source_name": "Bashkortostan",
+          "source_iso": "RUS"
+        },
+        {
+          "region_key": "Russia:84",
+          "country_name": "Russia",
+          "state_code": "84",
+          "state_name": "Crimea",
+          "source_name": "Crimea",
+          "source_iso": "RUS"
+        }
+      ]
+    },
+    "India": {
+      "source_iso": "IND",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM1/geoBoundaries-IND-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 36,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "India:34",
+          "country_name": "India",
+          "state_code": "34",
+          "state_name": "Puducherry",
+          "source_name": "Puducherry",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:27",
+          "country_name": "India",
+          "state_code": "27",
+          "state_name": "Maharashtra",
+          "source_name": "Mahārāshtra",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:13",
+          "country_name": "India",
+          "state_code": "13",
+          "state_name": "Nagaland",
+          "source_name": "Nāgāland",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:31",
+          "country_name": "India",
+          "state_code": "31",
+          "state_name": "Lakshadweep",
+          "source_name": "Lakshadweep",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:09",
+          "country_name": "India",
+          "state_code": "09",
+          "state_name": "Uttar Pradesh",
+          "source_name": "Uttar Pradesh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:33",
+          "country_name": "India",
+          "state_code": "33",
+          "state_name": "Tamil Nadu",
+          "source_name": "Tamil Nādu",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:22",
+          "country_name": "India",
+          "state_code": "22",
+          "state_name": "Chhattisgarh",
+          "source_name": "Chhattīsgarh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:24",
+          "country_name": "India",
+          "state_code": "24",
+          "state_name": "Gujarat",
+          "source_name": "Gujarāt",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:07",
+          "country_name": "India",
+          "state_code": "07",
+          "state_name": "Delhi",
+          "source_name": "Delhi",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:11",
+          "country_name": "India",
+          "state_code": "11",
+          "state_name": "Sikkim",
+          "source_name": "Sikkim",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:16",
+          "country_name": "India",
+          "state_code": "16",
+          "state_name": "Tripura",
+          "source_name": "Tripura",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:19",
+          "country_name": "India",
+          "state_code": "19",
+          "state_name": "West Bengal",
+          "source_name": "West Bengal",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:21",
+          "country_name": "India",
+          "state_code": "21",
+          "state_name": "Odisha",
+          "source_name": "Odisha",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:10",
+          "country_name": "India",
+          "state_code": "10",
+          "state_name": "Bihar",
+          "source_name": "Bihār",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:38",
+          "country_name": "India",
+          "state_code": "38",
+          "state_name": "Ladakh",
+          "source_name": "Ladākh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:08",
+          "country_name": "India",
+          "state_code": "08",
+          "state_name": "Rajasthan",
+          "source_name": "Rājasthān",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:36",
+          "country_name": "India",
+          "state_code": "36",
+          "state_name": "Telangana",
+          "source_name": "Telangāna",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:37",
+          "country_name": "India",
+          "state_code": "37",
+          "state_name": "Andhra Pradesh",
+          "source_name": "Andhra Pradesh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:15",
+          "country_name": "India",
+          "state_code": "15",
+          "state_name": "Mizoram",
+          "source_name": "Mizoram",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:12",
+          "country_name": "India",
+          "state_code": "12",
+          "state_name": "Arunachal Pradesh",
+          "source_name": "Arunāchal Pradesh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:17",
+          "country_name": "India",
+          "state_code": "17",
+          "state_name": "Meghalaya",
+          "source_name": "Meghālaya",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:20",
+          "country_name": "India",
+          "state_code": "20",
+          "state_name": "Jharkhand",
+          "source_name": "Jhārkhand",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:18",
+          "country_name": "India",
+          "state_code": "18",
+          "state_name": "Assam",
+          "source_name": "Assam",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:14",
+          "country_name": "India",
+          "state_code": "14",
+          "state_name": "Manipur",
+          "source_name": "Manipur",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:29",
+          "country_name": "India",
+          "state_code": "29",
+          "state_name": "Karnataka",
+          "source_name": "Karnātaka",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:05",
+          "country_name": "India",
+          "state_code": "05",
+          "state_name": "Uttarakhand",
+          "source_name": "Uttarākhand",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:39",
+          "country_name": "India",
+          "state_code": "39",
+          "state_name": "Dadra, Nagar Haveli, Daman & Diu",
+          "source_name": "Dādra and Nagar Haveli and Damān and Diu",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:23",
+          "country_name": "India",
+          "state_code": "23",
+          "state_name": "Madhya Pradesh",
+          "source_name": "Madhya Pradesh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:30",
+          "country_name": "India",
+          "state_code": "30",
+          "state_name": "Goa",
+          "source_name": "Goa",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:32",
+          "country_name": "India",
+          "state_code": "32",
+          "state_name": "Kerala",
+          "source_name": "Kerala",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:04",
+          "country_name": "India",
+          "state_code": "04",
+          "state_name": "Chandigarh",
+          "source_name": "Chandīgarh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:35",
+          "country_name": "India",
+          "state_code": "35",
+          "state_name": "Andaman & Nicobar",
+          "source_name": "Andaman and Nicobar Islands",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:02",
+          "country_name": "India",
+          "state_code": "02",
+          "state_name": "Himachal Pradesh",
+          "source_name": "Himāchal Pradesh",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:01",
+          "country_name": "India",
+          "state_code": "01",
+          "state_name": "Jammu & Kashmir",
+          "source_name": "Jammu and Kashmīr",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:03",
+          "country_name": "India",
+          "state_code": "03",
+          "state_name": "Punjab",
+          "source_name": "Punjab",
+          "source_iso": "IND"
+        },
+        {
+          "region_key": "India:06",
+          "country_name": "India",
+          "state_code": "06",
+          "state_name": "Haryana",
+          "source_name": "Haryāna",
+          "source_iso": "IND"
+        }
+      ]
+    },
+    "Thailand": {
+      "source_iso": "THA",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/THA/ADM1/geoBoundaries-THA-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 77,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Thailand:45",
+          "country_name": "Thailand",
+          "state_code": "45",
+          "state_name": "Roi Et",
+          "source_name": "Roi Et Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:56",
+          "country_name": "Thailand",
+          "state_code": "56",
+          "state_name": "Phayao",
+          "source_name": "Phayao Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:60",
+          "country_name": "Thailand",
+          "state_code": "60",
+          "state_name": "Nakhon Sawan",
+          "source_name": "Nakhon Sawan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:39",
+          "country_name": "Thailand",
+          "state_code": "39",
+          "state_name": "Nong Bua Lam Phu",
+          "source_name": "Nong Bua Lam Phu Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:24",
+          "country_name": "Thailand",
+          "state_code": "24",
+          "state_name": "Chachoengsao",
+          "source_name": "Chachoengsao Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:32",
+          "country_name": "Thailand",
+          "state_code": "32",
+          "state_name": "Surin",
+          "source_name": "Surin Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:30",
+          "country_name": "Thailand",
+          "state_code": "30",
+          "state_name": "Nakhon Ratchasima",
+          "source_name": "Nakhon Ratchasima Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:64",
+          "country_name": "Thailand",
+          "state_code": "64",
+          "state_name": "Sukhothai",
+          "source_name": "Sukhothai Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:76",
+          "country_name": "Thailand",
+          "state_code": "76",
+          "state_name": "Phetchaburi",
+          "source_name": "Phetchaburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:36",
+          "country_name": "Thailand",
+          "state_code": "36",
+          "state_name": "Chaiyaphum",
+          "source_name": "Chaiyaphum Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:67",
+          "country_name": "Thailand",
+          "state_code": "67",
+          "state_name": "Phetchabun",
+          "source_name": "Phetchabun Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:84",
+          "country_name": "Thailand",
+          "state_code": "84",
+          "state_name": "Surat Thani",
+          "source_name": "Surat Thani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:33",
+          "country_name": "Thailand",
+          "state_code": "33",
+          "state_name": "Si Sa Ket",
+          "source_name": "Si Sa Ket Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:43",
+          "country_name": "Thailand",
+          "state_code": "43",
+          "state_name": "Nong Khai",
+          "source_name": "Nong Khai Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:10",
+          "country_name": "Thailand",
+          "state_code": "10",
+          "state_name": "Bangkok",
+          "source_name": "Bangkok",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:40",
+          "country_name": "Thailand",
+          "state_code": "40",
+          "state_name": "Khon Kaen",
+          "source_name": "Khon Kaen Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:42",
+          "country_name": "Thailand",
+          "state_code": "42",
+          "state_name": "Loei",
+          "source_name": "Loei Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:19",
+          "country_name": "Thailand",
+          "state_code": "19",
+          "state_name": "Saraburi",
+          "source_name": "Saraburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:61",
+          "country_name": "Thailand",
+          "state_code": "61",
+          "state_name": "Uthai Thani",
+          "source_name": "Uthai Thani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:86",
+          "country_name": "Thailand",
+          "state_code": "86",
+          "state_name": "Chumphon",
+          "source_name": "Chumphon Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:46",
+          "country_name": "Thailand",
+          "state_code": "46",
+          "state_name": "Kalasin",
+          "source_name": "Kalasin",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:65",
+          "country_name": "Thailand",
+          "state_code": "65",
+          "state_name": "Phitsanulok",
+          "source_name": "Phitsanulok Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:85",
+          "country_name": "Thailand",
+          "state_code": "85",
+          "state_name": "Ranong",
+          "source_name": "Ranong Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:41",
+          "country_name": "Thailand",
+          "state_code": "41",
+          "state_name": "Udon Thani",
+          "source_name": "Udon Thani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:47",
+          "country_name": "Thailand",
+          "state_code": "47",
+          "state_name": "Sakon Nakhon",
+          "source_name": "Sakon Nakhon Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:57",
+          "country_name": "Thailand",
+          "state_code": "57",
+          "state_name": "Chiang Rai",
+          "source_name": "Chiang Rai Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:63",
+          "country_name": "Thailand",
+          "state_code": "63",
+          "state_name": "Tak",
+          "source_name": "Tak Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:73",
+          "country_name": "Thailand",
+          "state_code": "73",
+          "state_name": "Nakhon Pathom",
+          "source_name": "Nakhon Pathom Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:51",
+          "country_name": "Thailand",
+          "state_code": "51",
+          "state_name": "Lamphun",
+          "source_name": "Lamphun Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:23",
+          "country_name": "Thailand",
+          "state_code": "23",
+          "state_name": "Trat",
+          "source_name": "Trat Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:70",
+          "country_name": "Thailand",
+          "state_code": "70",
+          "state_name": "Ratchaburi",
+          "source_name": "Ratchaburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:35",
+          "country_name": "Thailand",
+          "state_code": "35",
+          "state_name": "Yasothon",
+          "source_name": "Yasothon Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:54",
+          "country_name": "Thailand",
+          "state_code": "54",
+          "state_name": "Phrae",
+          "source_name": "Phrae Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:95",
+          "country_name": "Thailand",
+          "state_code": "95",
+          "state_name": "Yala",
+          "source_name": "Yala Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:53",
+          "country_name": "Thailand",
+          "state_code": "53",
+          "state_name": "Uttaradit",
+          "source_name": "Uttaradit Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:31",
+          "country_name": "Thailand",
+          "state_code": "31",
+          "state_name": "Buri Ram",
+          "source_name": "Buri Ram Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:62",
+          "country_name": "Thailand",
+          "state_code": "62",
+          "state_name": "Kamphaeng Phet",
+          "source_name": "Kamphaeng Phet Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:52",
+          "country_name": "Thailand",
+          "state_code": "52",
+          "state_name": "Lampang",
+          "source_name": "Lampang Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:12",
+          "country_name": "Thailand",
+          "state_code": "12",
+          "state_name": "Nonthaburi",
+          "source_name": "Nonthaburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:38",
+          "country_name": "Thailand",
+          "state_code": "38",
+          "state_name": "Bueng Kan",
+          "source_name": "Bueng Kan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:96",
+          "country_name": "Thailand",
+          "state_code": "96",
+          "state_name": "Narathiwat",
+          "source_name": "Narathiwat Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:34",
+          "country_name": "Thailand",
+          "state_code": "34",
+          "state_name": "Ubon Ratchathani",
+          "source_name": "Ubon Ratchathani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:77",
+          "country_name": "Thailand",
+          "state_code": "77",
+          "state_name": "Prachuap Khiri Khan",
+          "source_name": "Prachuap Khiri Khan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:90",
+          "country_name": "Thailand",
+          "state_code": "90",
+          "state_name": "Songkhla",
+          "source_name": "Songkhla Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:83",
+          "country_name": "Thailand",
+          "state_code": "83",
+          "state_name": "Phuket",
+          "source_name": "Phuket Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:15",
+          "country_name": "Thailand",
+          "state_code": "15",
+          "state_name": "Ang Thong",
+          "source_name": "Ang Thong Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:44",
+          "country_name": "Thailand",
+          "state_code": "44",
+          "state_name": "Maha Sarakham",
+          "source_name": "Maha Sarakham Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:92",
+          "country_name": "Thailand",
+          "state_code": "92",
+          "state_name": "Trang",
+          "source_name": "Trang Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:72",
+          "country_name": "Thailand",
+          "state_code": "72",
+          "state_name": "Suphan Buri",
+          "source_name": "Suphan Buri Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:17",
+          "country_name": "Thailand",
+          "state_code": "17",
+          "state_name": "Sing Buri",
+          "source_name": "Sing Buri Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:75",
+          "country_name": "Thailand",
+          "state_code": "75",
+          "state_name": "Samut Songkhram",
+          "source_name": "Samut Songkhram Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:21",
+          "country_name": "Thailand",
+          "state_code": "21",
+          "state_name": "Rayong",
+          "source_name": "Rayong Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:25",
+          "country_name": "Thailand",
+          "state_code": "25",
+          "state_name": "Prachin Buri",
+          "source_name": "Prachin Buri Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:14",
+          "country_name": "Thailand",
+          "state_code": "14",
+          "state_name": "Phra Nakhon Si Ayutthaya",
+          "source_name": "Phra Nakhon Si Ayutthaya Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:66",
+          "country_name": "Thailand",
+          "state_code": "66",
+          "state_name": "Phichit",
+          "source_name": "Phichit Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:93",
+          "country_name": "Thailand",
+          "state_code": "93",
+          "state_name": "Phatthalung",
+          "source_name": "Phatthalung Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:82",
+          "country_name": "Thailand",
+          "state_code": "82",
+          "state_name": "Phang-nga",
+          "source_name": "Phangnga Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:94",
+          "country_name": "Thailand",
+          "state_code": "94",
+          "state_name": "Pattani",
+          "source_name": "Pattani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:13",
+          "country_name": "Thailand",
+          "state_code": "13",
+          "state_name": "Pathum Thani",
+          "source_name": "Pathum Thani Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:80",
+          "country_name": "Thailand",
+          "state_code": "80",
+          "state_name": "Nakhon Si Thammarat",
+          "source_name": "Nakhon Si Thammarat Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:26",
+          "country_name": "Thailand",
+          "state_code": "26",
+          "state_name": "Nakhon Nayok",
+          "source_name": "Nakhon Nayok Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:49",
+          "country_name": "Thailand",
+          "state_code": "49",
+          "state_name": "Mukdahan",
+          "source_name": "Mukdahan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:16",
+          "country_name": "Thailand",
+          "state_code": "16",
+          "state_name": "Lop Buri",
+          "source_name": "Lopburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:81",
+          "country_name": "Thailand",
+          "state_code": "81",
+          "state_name": "Krabi",
+          "source_name": "Krabi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:20",
+          "country_name": "Thailand",
+          "state_code": "20",
+          "state_name": "Chon Buri",
+          "source_name": "Chon Buri Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:50",
+          "country_name": "Thailand",
+          "state_code": "50",
+          "state_name": "Chiang Mai",
+          "source_name": "Chiang Mai Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:18",
+          "country_name": "Thailand",
+          "state_code": "18",
+          "state_name": "Chai Nat",
+          "source_name": "Chai Nat Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:37",
+          "country_name": "Thailand",
+          "state_code": "37",
+          "state_name": "Amnat Charoen",
+          "source_name": "Amnat Charoen Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:74",
+          "country_name": "Thailand",
+          "state_code": "74",
+          "state_name": "Samut Sakhon",
+          "source_name": "Samut Sakhon Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:11",
+          "country_name": "Thailand",
+          "state_code": "11",
+          "state_name": "Samut Prakan",
+          "source_name": "Samut Prakan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:55",
+          "country_name": "Thailand",
+          "state_code": "55",
+          "state_name": "Nan",
+          "source_name": "Nan Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:22",
+          "country_name": "Thailand",
+          "state_code": "22",
+          "state_name": "Chanthaburi",
+          "source_name": "Chanthaburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:48",
+          "country_name": "Thailand",
+          "state_code": "48",
+          "state_name": "Nakhon Phanom",
+          "source_name": "Nakhon Phanom Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:71",
+          "country_name": "Thailand",
+          "state_code": "71",
+          "state_name": "Kanchanaburi",
+          "source_name": "Kanchanaburi Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:58",
+          "country_name": "Thailand",
+          "state_code": "58",
+          "state_name": "Mae Hong Son",
+          "source_name": "Mae Hong Son Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:27",
+          "country_name": "Thailand",
+          "state_code": "27",
+          "state_name": "Sa Kaeo",
+          "source_name": "Sa Kaeo Province",
+          "source_iso": "THA"
+        },
+        {
+          "region_key": "Thailand:91",
+          "country_name": "Thailand",
+          "state_code": "91",
+          "state_name": "Satun",
+          "source_name": "Satun Province",
+          "source_iso": "THA"
+        }
+      ]
+    },
+    "Pakistan": {
+      "source_iso": "PAK",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM1/geoBoundaries-PAK-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 7,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Pakistan:01",
+          "country_name": "Pakistan",
+          "state_code": "01",
+          "state_name": "Balochistan",
+          "source_name": "Balochistan",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:02",
+          "country_name": "Pakistan",
+          "state_code": "02",
+          "state_name": "Sindh",
+          "source_name": "Sindh",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:03",
+          "country_name": "Pakistan",
+          "state_code": "03",
+          "state_name": "Gilgit-Baltistan",
+          "source_name": "Gilgit-Baltistan",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:04",
+          "country_name": "Pakistan",
+          "state_code": "04",
+          "state_name": "Azad Kashmir",
+          "source_name": "Azad Kashmir",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:05",
+          "country_name": "Pakistan",
+          "state_code": "05",
+          "state_name": "Khyber Pakhtunkhwa",
+          "source_name": "Khyber Pakhtunkhwa",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:06",
+          "country_name": "Pakistan",
+          "state_code": "06",
+          "state_name": "Punjab",
+          "source_name": "Punjab",
+          "source_iso": "PAK"
+        },
+        {
+          "region_key": "Pakistan:07",
+          "country_name": "Pakistan",
+          "state_code": "07",
+          "state_name": "Islamabad Capital Territory",
+          "source_name": "Islamabad Capital Territory",
+          "source_iso": "PAK"
+        }
+      ]
+    },
+    "Australia": {
+      "source_iso": "AUS",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AUS/ADM1/geoBoundaries-AUS-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 9,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Australia:10",
+          "country_name": "Australia",
+          "state_code": "10",
+          "state_name": "New South Wales",
+          "source_name": "New South Wales",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:20",
+          "country_name": "Australia",
+          "state_code": "20",
+          "state_name": "Victoria",
+          "source_name": "Victoria",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:30",
+          "country_name": "Australia",
+          "state_code": "30",
+          "state_name": "Queensland",
+          "source_name": "Queensland",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:40",
+          "country_name": "Australia",
+          "state_code": "40",
+          "state_name": "South Australia",
+          "source_name": "South Australia",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:50",
+          "country_name": "Australia",
+          "state_code": "50",
+          "state_name": "Western Australia",
+          "source_name": "Western Australia",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:60",
+          "country_name": "Australia",
+          "state_code": "60",
+          "state_name": "Tasmania",
+          "source_name": "Tasmania",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:70",
+          "country_name": "Australia",
+          "state_code": "70",
+          "state_name": "Northern Territory",
+          "source_name": "Northern Territory",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:80",
+          "country_name": "Australia",
+          "state_code": "80",
+          "state_name": "Australian Capital Territory",
+          "source_name": "Australian Capital Territory",
+          "source_iso": "AUS"
+        },
+        {
+          "region_key": "Australia:90",
+          "country_name": "Australia",
+          "state_code": "90",
+          "state_name": "Other Territories",
+          "source_name": "Other Territories",
+          "source_iso": "AUS"
+        }
+      ]
+    },
+    "Poland": {
+      "source_iso": "POL",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM1/geoBoundaries-POL-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 16,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Poland:30003",
+          "country_name": "Poland",
+          "state_code": "30003",
+          "state_name": "Podkarpackie Voivodeship",
+          "source_name": "Subcarpathian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30006",
+          "country_name": "Poland",
+          "state_code": "30006",
+          "state_name": "Podlaskie Voivodeship",
+          "source_name": "Podlaskie Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30013",
+          "country_name": "Poland",
+          "state_code": "30013",
+          "state_name": "Łódź Voivodeship",
+          "source_name": "Łódź Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30004",
+          "country_name": "Poland",
+          "state_code": "30004",
+          "state_name": "Lower Silesian Voivodeship",
+          "source_name": "Lower Silesian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30005",
+          "country_name": "Poland",
+          "state_code": "30005",
+          "state_name": "Opole Voivodeship",
+          "source_name": "Opole Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30016",
+          "country_name": "Poland",
+          "state_code": "30016",
+          "state_name": "Świętokrzyskie Voivodeship",
+          "source_name": "Świętokrzyskie Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30012",
+          "country_name": "Poland",
+          "state_code": "30012",
+          "state_name": "Masovian Voivodeship",
+          "source_name": "Masovian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30015",
+          "country_name": "Poland",
+          "state_code": "30015",
+          "state_name": "Greater Poland Voivodeship",
+          "source_name": "Greater Poland Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30002",
+          "country_name": "Poland",
+          "state_code": "30002",
+          "state_name": "Lesser Poland Voivodeship",
+          "source_name": "Lesser Poland Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30008",
+          "country_name": "Poland",
+          "state_code": "30008",
+          "state_name": "Lubusz Voivodeship",
+          "source_name": "Lubusz Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30014",
+          "country_name": "Poland",
+          "state_code": "30014",
+          "state_name": "Kuyavian-Pomeranian Voivodeship",
+          "source_name": "Kuyavian-Pomeranian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30011",
+          "country_name": "Poland",
+          "state_code": "30011",
+          "state_name": "Pomeranian Voivodeship",
+          "source_name": "Pomeranian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30009",
+          "country_name": "Poland",
+          "state_code": "30009",
+          "state_name": "West Pomeranian Voivodeship",
+          "source_name": "West Pomeranian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30010",
+          "country_name": "Poland",
+          "state_code": "30010",
+          "state_name": "Lublin Voivodeship",
+          "source_name": "Lublin Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30007",
+          "country_name": "Poland",
+          "state_code": "30007",
+          "state_name": "Warmian-Masurian Voivodeship",
+          "source_name": "Warmian-Masurian Voivodeship",
+          "source_iso": "POL"
+        },
+        {
+          "region_key": "Poland:30001",
+          "country_name": "Poland",
+          "state_code": "30001",
+          "state_name": "Silesian Voivodeship",
+          "source_name": "Silesian Voivodeship",
+          "source_iso": "POL"
+        }
+      ]
+    },
+    "China": {
+      "source_iso": "CHN",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 31,
+      "skipped_source_features": [
+        "Taiwan Province",
+        "Macau Special Administrative Region",
+        "Hong Kong Special Administrative Region"
+      ],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "China:09",
+          "country_name": "China",
+          "state_code": "09",
+          "state_name": "Hainan",
+          "source_name": "Hainan Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:07",
+          "country_name": "China",
+          "state_code": "07",
+          "state_name": "Guangxi",
+          "source_name": "Guangxi Zhuang Autonomous Region",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:04",
+          "country_name": "China",
+          "state_code": "04",
+          "state_name": "Fujian",
+          "source_name": "Fujian Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:30",
+          "country_name": "China",
+          "state_code": "30",
+          "state_name": "Yunnan",
+          "source_name": "Yunnan Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:08",
+          "country_name": "China",
+          "state_code": "08",
+          "state_name": "Guizhou",
+          "source_name": "Guizhou Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:16",
+          "country_name": "China",
+          "state_code": "16",
+          "state_name": "Jiangxi",
+          "source_name": "Jiangxi Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:14",
+          "country_name": "China",
+          "state_code": "14",
+          "state_name": "Hunan",
+          "source_name": "Hunan Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:31",
+          "country_name": "China",
+          "state_code": "31",
+          "state_name": "Zhejiang",
+          "source_name": "Zhejiang Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:24",
+          "country_name": "China",
+          "state_code": "24",
+          "state_name": "Shanghai",
+          "source_name": "Shanghai Municipality",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:03",
+          "country_name": "China",
+          "state_code": "03",
+          "state_name": "Chongqing",
+          "source_name": "Chongqing Municipality",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:13",
+          "country_name": "China",
+          "state_code": "13",
+          "state_name": "Hubei",
+          "source_name": "Hubei Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:26",
+          "country_name": "China",
+          "state_code": "26",
+          "state_name": "Sichuan",
+          "source_name": "Sichuan Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:01",
+          "country_name": "China",
+          "state_code": "01",
+          "state_name": "Anhui",
+          "source_name": "Anhui Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:15",
+          "country_name": "China",
+          "state_code": "15",
+          "state_name": "Jiangsu",
+          "source_name": "Jiangsu Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:12",
+          "country_name": "China",
+          "state_code": "12",
+          "state_name": "Henan",
+          "source_name": "Henan Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:29",
+          "country_name": "China",
+          "state_code": "29",
+          "state_name": "Xizang",
+          "source_name": "Tibet Autonomous Region",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:23",
+          "country_name": "China",
+          "state_code": "23",
+          "state_name": "Shandong",
+          "source_name": "Shandong Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:21",
+          "country_name": "China",
+          "state_code": "21",
+          "state_name": "Qinghai",
+          "source_name": "Qinghai Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:20",
+          "country_name": "China",
+          "state_code": "20",
+          "state_name": "Ningxia Hui",
+          "source_name": "Ningxia Ningxia Hui Autonomous Region",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:22",
+          "country_name": "China",
+          "state_code": "22",
+          "state_name": "Shaanxi",
+          "source_name": "Shaanxi Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:27",
+          "country_name": "China",
+          "state_code": "27",
+          "state_name": "Tianjin",
+          "source_name": "Tianjin Municipality",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:25",
+          "country_name": "China",
+          "state_code": "25",
+          "state_name": "Shanxi",
+          "source_name": "Shanxi Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:02",
+          "country_name": "China",
+          "state_code": "02",
+          "state_name": "Beijing",
+          "source_name": "Beijing Municipality",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:05",
+          "country_name": "China",
+          "state_code": "05",
+          "state_name": "Gansu",
+          "source_name": "Gansu Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:10",
+          "country_name": "China",
+          "state_code": "10",
+          "state_name": "Hebei",
+          "source_name": "Hebei Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:18",
+          "country_name": "China",
+          "state_code": "18",
+          "state_name": "Liaoning",
+          "source_name": "Liaoning Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:17",
+          "country_name": "China",
+          "state_code": "17",
+          "state_name": "Jilin",
+          "source_name": "Jilin Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:28",
+          "country_name": "China",
+          "state_code": "28",
+          "state_name": "Xinjiang Uygur",
+          "source_name": "Xinjiang Uyghur Autonomous Region",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:19",
+          "country_name": "China",
+          "state_code": "19",
+          "state_name": "Nei Mongol",
+          "source_name": "Inner Mongolia Autonomous Region",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:11",
+          "country_name": "China",
+          "state_code": "11",
+          "state_name": "Heilongjiang",
+          "source_name": "Heilongjiang Province",
+          "source_iso": "CHN"
+        },
+        {
+          "region_key": "China:06",
+          "country_name": "China",
+          "state_code": "06",
+          "state_name": "Guangdong",
+          "source_name": "Guangzhou Province",
+          "source_iso": "CHN"
+        }
+      ]
+    },
+    "Germany": {
+      "source_iso": "DEU",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DEU/ADM1/geoBoundaries-DEU-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 16,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Germany:15008",
+          "country_name": "Germany",
+          "state_code": "15008",
+          "state_name": "Baden-Württemberg",
+          "source_name": "Baden-Württemberg",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15002",
+          "country_name": "Germany",
+          "state_code": "15002",
+          "state_name": "Bavaria",
+          "source_name": "Bayern",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15016",
+          "country_name": "Germany",
+          "state_code": "15016",
+          "state_name": "Berlin",
+          "source_name": "Berlin",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15009",
+          "country_name": "Germany",
+          "state_code": "15009",
+          "state_name": "Brandenburg",
+          "source_name": "Brandenburg",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15011",
+          "country_name": "Germany",
+          "state_code": "15011",
+          "state_name": "Free Hanseatic Bremen",
+          "source_name": "Bremen",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15012",
+          "country_name": "Germany",
+          "state_code": "15012",
+          "state_name": "Hamburg",
+          "source_name": "Hamburg",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15013",
+          "country_name": "Germany",
+          "state_code": "15013",
+          "state_name": "Hesse",
+          "source_name": "Hessen",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15010",
+          "country_name": "Germany",
+          "state_code": "15010",
+          "state_name": "Mecklenburg-Western Pomerania",
+          "source_name": "Mecklenburg-Vorpommern",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15006",
+          "country_name": "Germany",
+          "state_code": "15006",
+          "state_name": "Lower Saxony",
+          "source_name": "Niedersachsen",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15007",
+          "country_name": "Germany",
+          "state_code": "15007",
+          "state_name": "North Rhine-Westphalia",
+          "source_name": "Nordrhein-Westfalen",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15003",
+          "country_name": "Germany",
+          "state_code": "15003",
+          "state_name": "Rhineland-Palatinate",
+          "source_name": "Rheinland-Pfalz",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15004",
+          "country_name": "Germany",
+          "state_code": "15004",
+          "state_name": "Saarland",
+          "source_name": "Saarland",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15001",
+          "country_name": "Germany",
+          "state_code": "15001",
+          "state_name": "Saxony",
+          "source_name": "Sachsen",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15015",
+          "country_name": "Germany",
+          "state_code": "15015",
+          "state_name": "Saxony-Anhalt",
+          "source_name": "Sachsen-Anhalt",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15005",
+          "country_name": "Germany",
+          "state_code": "15005",
+          "state_name": "Schleswig-Holstein",
+          "source_name": "Schleswig-Holstein",
+          "source_iso": "DEU"
+        },
+        {
+          "region_key": "Germany:15014",
+          "country_name": "Germany",
+          "state_code": "15014",
+          "state_name": "Thuringia",
+          "source_name": "Thüringen",
+          "source_iso": "DEU"
+        }
+      ]
+    }
+  }
+}
