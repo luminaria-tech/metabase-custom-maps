@@ -10,7 +10,7 @@ regenerate and merge it there, copy the files here, and point Metabase at the ne
 
 | File | Contents |
 |---|---|
-| `spam_state_level_admin1.geojson` | SPAM state-level admin1 boundaries, 343 regions in 10 countries: USA 50, Brazil 27, India 36, Russia 74, Thailand 77, China 31, Germany 16, Poland 16, Australia 9, Pakistan 7 |
+| `spam_state_level_admin1.geojson` | SPAM state-level admin1 boundaries, 444 regions in 14 countries: USA 50, Brazil 27, India 36, Russia 74, Thailand 77, China 31, Germany 16, Poland 16, Australia 9, Pakistan 7, Cote d'Ivoire 14, Ghana 16, Indonesia 34, Nigeria 37 |
 | `spam_state_level_<country>_admin1.geojson` | the same geometry split per country |
 | `spam_state_level_admin1.mapping.json` | how each region was matched to `ods.country_state_codes` |
 
@@ -32,4 +32,5 @@ county weather and USDA map cards.
 
 History: until 2026-10-27 the state-level maps were served from a personal repository outside the organisation
 (`Sindbag/metabase-custom-maps`, five countries, 264 regions; risk RSK-378). Moved here from
-`luminaria-tech/data-processing@dd1e461a` (`DDL/dashboard/metabase/maps/`).
+`luminaria-tech/data-processing@dd1e461a` (`DDL/dashboard/metabase/maps/`). The cocoa countries (Cote d'Ivoire,
+Ghana, Indonesia, Nigeria) were added from `luminaria-tech/data-processing@656354ee` (PR #1114, LUM-686).

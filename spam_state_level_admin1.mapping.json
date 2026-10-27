@@ -2870,6 +2870,854 @@
           "source_iso": "DEU"
         }
       ]
+    },
+    "Cote d'Ivoire": {
+      "source_iso": "CIV",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM1/geoBoundaries-CIV-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 14,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Cote d'Ivoire:01",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "01",
+          "state_name": "Bas-Sassandra",
+          "source_name": "Bas-Sassandra",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:03",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "03",
+          "state_name": "Denguele",
+          "source_name": "Denguele",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:04",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "04",
+          "state_name": "District Autonome D'Abidjan",
+          "source_name": "District Autonome D'Abidjan",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:05",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "05",
+          "state_name": "District Autonome De Yamoussoukro",
+          "source_name": "District Autonome De Yamoussoukro",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:06",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "06",
+          "state_name": "Goh-Djiboua",
+          "source_name": "Goh-Djiboua",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:07",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "07",
+          "state_name": "Lacs",
+          "source_name": "Lacs",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:09",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "09",
+          "state_name": "Montagnes",
+          "source_name": "Montagnes",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:10",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "10",
+          "state_name": "Sassandra-Marahoue",
+          "source_name": "Sassandra-Marahoue",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:11",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "11",
+          "state_name": "Savanes",
+          "source_name": "Savanes",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:12",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "12",
+          "state_name": "Valle Du Bandama",
+          "source_name": "Valle Du Bandama",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:13",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "13",
+          "state_name": "Woroba",
+          "source_name": "Woroba",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:14",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "14",
+          "state_name": "Zanzan",
+          "source_name": "Zanzan",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:08",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "08",
+          "state_name": "Lagunes",
+          "source_name": "Lagunes",
+          "source_iso": "CIV"
+        },
+        {
+          "region_key": "Cote d'Ivoire:02",
+          "country_name": "Cote d'Ivoire",
+          "state_code": "02",
+          "state_name": "Comoe",
+          "source_name": "Comoe",
+          "source_iso": "CIV"
+        }
+      ]
+    },
+    "Ghana": {
+      "source_iso": "GHA",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GHA/ADM1/geoBoundaries-GHA-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 16,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Ghana:15",
+          "country_name": "Ghana",
+          "state_code": "15",
+          "state_name": "Western North Region",
+          "source_name": "Western North Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:01",
+          "country_name": "Ghana",
+          "state_code": "01",
+          "state_name": "Ahafo Region",
+          "source_name": "Ahafo Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:03",
+          "country_name": "Ghana",
+          "state_code": "03",
+          "state_name": "Bono East Region",
+          "source_name": "Bono East Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:11",
+          "country_name": "Ghana",
+          "state_code": "11",
+          "state_name": "Savannah Region",
+          "source_name": "Savannah Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:08",
+          "country_name": "Ghana",
+          "state_code": "08",
+          "state_name": "North East Region",
+          "source_name": "North East Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:10",
+          "country_name": "Ghana",
+          "state_code": "10",
+          "state_name": "Oti Region",
+          "source_name": "Oti Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:16",
+          "country_name": "Ghana",
+          "state_code": "16",
+          "state_name": "Western Region",
+          "source_name": "Western Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:06",
+          "country_name": "Ghana",
+          "state_code": "06",
+          "state_name": "Eastern Region",
+          "source_name": "Eastern Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:09",
+          "country_name": "Ghana",
+          "state_code": "09",
+          "state_name": "Northern Region",
+          "source_name": "Northern Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:05",
+          "country_name": "Ghana",
+          "state_code": "05",
+          "state_name": "Central Region",
+          "source_name": "Central Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:02",
+          "country_name": "Ghana",
+          "state_code": "02",
+          "state_name": "Ashanti Region",
+          "source_name": "Ashanti Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:04",
+          "country_name": "Ghana",
+          "state_code": "04",
+          "state_name": "Bono Region",
+          "source_name": "Bono Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:14",
+          "country_name": "Ghana",
+          "state_code": "14",
+          "state_name": "Volta Region",
+          "source_name": "Volta Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:13",
+          "country_name": "Ghana",
+          "state_code": "13",
+          "state_name": "Upper West Region",
+          "source_name": "Upper West Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:12",
+          "country_name": "Ghana",
+          "state_code": "12",
+          "state_name": "Upper East Region",
+          "source_name": "Upper East Region",
+          "source_iso": "GHA"
+        },
+        {
+          "region_key": "Ghana:07",
+          "country_name": "Ghana",
+          "state_code": "07",
+          "state_name": "Greater Accra Region",
+          "source_name": "Greater Accra Region",
+          "source_iso": "GHA"
+        }
+      ]
+    },
+    "Indonesia": {
+      "source_iso": "IDN",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 34,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Indonesia:17",
+          "country_name": "Indonesia",
+          "state_code": "17",
+          "state_name": "Bali",
+          "source_name": "Bali",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:33",
+          "country_name": "Indonesia",
+          "state_code": "33",
+          "state_name": "West Nusa Tenggara",
+          "source_name": "West Nusa Tenggara",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:18",
+          "country_name": "Indonesia",
+          "state_code": "18",
+          "state_name": "Banten",
+          "source_name": "Banten",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:19",
+          "country_name": "Indonesia",
+          "state_code": "19",
+          "state_name": "Central Java",
+          "source_name": "Central Java",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:31",
+          "country_name": "Indonesia",
+          "state_code": "31",
+          "state_name": "West Java",
+          "source_name": "West Java",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:20",
+          "country_name": "Indonesia",
+          "state_code": "20",
+          "state_name": "Central Kalimantan",
+          "source_name": "Central Kalimantan",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:29",
+          "country_name": "Indonesia",
+          "state_code": "29",
+          "state_name": "South Kalimantan",
+          "source_name": "South Kalimantan",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:32",
+          "country_name": "Indonesia",
+          "state_code": "32",
+          "state_name": "West Kalimantan",
+          "source_name": "West Kalimantan",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:04",
+          "country_name": "Indonesia",
+          "state_code": "04",
+          "state_name": "Central Sulawesi",
+          "source_name": "Central Sulawesi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:05",
+          "country_name": "Indonesia",
+          "state_code": "05",
+          "state_name": "Gorontalo",
+          "source_name": "Gorontalo",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:08",
+          "country_name": "Indonesia",
+          "state_code": "08",
+          "state_name": "North Sulawesi",
+          "source_name": "North Sulawesi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:12",
+          "country_name": "Indonesia",
+          "state_code": "12",
+          "state_name": "South Sulawesi",
+          "source_name": "South Sulawesi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:14",
+          "country_name": "Indonesia",
+          "state_code": "14",
+          "state_name": "Southeast Sulawesi",
+          "source_name": "Southeast Sulawesi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:15",
+          "country_name": "Indonesia",
+          "state_code": "15",
+          "state_name": "West Sulawesi",
+          "source_name": "West Sulawesi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:01",
+          "country_name": "Indonesia",
+          "state_code": "01",
+          "state_name": "Aceh",
+          "source_name": "Aceh",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:03",
+          "country_name": "Indonesia",
+          "state_code": "03",
+          "state_name": "Bengkulu",
+          "source_name": "Bengkulu",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:06",
+          "country_name": "Indonesia",
+          "state_code": "06",
+          "state_name": "Jambi",
+          "source_name": "Jambi",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:07",
+          "country_name": "Indonesia",
+          "state_code": "07",
+          "state_name": "Lampung",
+          "source_name": "Lampung",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:10",
+          "country_name": "Indonesia",
+          "state_code": "10",
+          "state_name": "Riau",
+          "source_name": "Riau",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:16",
+          "country_name": "Indonesia",
+          "state_code": "16",
+          "state_name": "West Sumatra",
+          "source_name": "West Sumatra",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:13",
+          "country_name": "Indonesia",
+          "state_code": "13",
+          "state_name": "South Sumatra",
+          "source_name": "South Sumatra",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:09",
+          "country_name": "Indonesia",
+          "state_code": "09",
+          "state_name": "North Sumatra",
+          "source_name": "North Sumatra",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:23",
+          "country_name": "Indonesia",
+          "state_code": "23",
+          "state_name": "East Nusa Tenggara",
+          "source_name": "East Nusa Tenggara",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:25",
+          "country_name": "Indonesia",
+          "state_code": "25",
+          "state_name": "Maluku",
+          "source_name": "Maluku",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:27",
+          "country_name": "Indonesia",
+          "state_code": "27",
+          "state_name": "North Maluku",
+          "source_name": "North Maluku",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:21",
+          "country_name": "Indonesia",
+          "state_code": "21",
+          "state_name": "East Java",
+          "source_name": "East Java",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:02",
+          "country_name": "Indonesia",
+          "state_code": "02",
+          "state_name": "Bangka-Belitung Islands",
+          "source_name": "Bangka-Belitung Islands",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:11",
+          "country_name": "Indonesia",
+          "state_code": "11",
+          "state_name": "Riau Islands",
+          "source_name": "Riau Islands",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:28",
+          "country_name": "Indonesia",
+          "state_code": "28",
+          "state_name": "Papua",
+          "source_name": "Papua",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:34",
+          "country_name": "Indonesia",
+          "state_code": "34",
+          "state_name": "West Papua",
+          "source_name": "West Papua",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:22",
+          "country_name": "Indonesia",
+          "state_code": "22",
+          "state_name": "East Kalimantan",
+          "source_name": "East Kalimantan",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:26",
+          "country_name": "Indonesia",
+          "state_code": "26",
+          "state_name": "North Kalimantan",
+          "source_name": "North Kalimantan",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:30",
+          "country_name": "Indonesia",
+          "state_code": "30",
+          "state_name": "Special Region of Yogyakarta",
+          "source_name": "Special Region of Yogyakarta",
+          "source_iso": "IDN"
+        },
+        {
+          "region_key": "Indonesia:24",
+          "country_name": "Indonesia",
+          "state_code": "24",
+          "state_name": "Jakarta Special Capital Region",
+          "source_name": "Jakarta Special Capital Region",
+          "source_iso": "IDN"
+        }
+      ]
+    },
+    "Nigeria": {
+      "source_iso": "NGA",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM1/geoBoundaries-NGA-ADM1_simplified.geojson",
+      "extra_source_urls": [],
+      "matched_feature_count": 37,
+      "skipped_source_features": [],
+      "unmatched_db_state_names": [],
+      "features": [
+        {
+          "region_key": "Nigeria:10",
+          "country_name": "Nigeria",
+          "state_code": "10",
+          "state_name": "Cross River",
+          "source_name": "Cross River",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:02",
+          "country_name": "Nigeria",
+          "state_code": "02",
+          "state_name": "Abuja Federal Capital Territory",
+          "source_name": "Abuja Federal Capital Territory",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:28",
+          "country_name": "Nigeria",
+          "state_code": "28",
+          "state_name": "Ogun",
+          "source_name": "Ogun",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:31",
+          "country_name": "Nigeria",
+          "state_code": "31",
+          "state_name": "Oyo",
+          "source_name": "Oyo",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:34",
+          "country_name": "Nigeria",
+          "state_code": "34",
+          "state_name": "Sokoto",
+          "source_name": "Sokoto",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:37",
+          "country_name": "Nigeria",
+          "state_code": "37",
+          "state_name": "Zamfara",
+          "source_name": "Zamfara",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:25",
+          "country_name": "Nigeria",
+          "state_code": "25",
+          "state_name": "Lagos",
+          "source_name": "Lagos",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:04",
+          "country_name": "Nigeria",
+          "state_code": "04",
+          "state_name": "Akwa Ibom",
+          "source_name": "Akwa Ibom",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:07",
+          "country_name": "Nigeria",
+          "state_code": "07",
+          "state_name": "Bayelsa",
+          "source_name": "Bayelsa",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:29",
+          "country_name": "Nigeria",
+          "state_code": "29",
+          "state_name": "Ondo",
+          "source_name": "Ondo",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:11",
+          "country_name": "Nigeria",
+          "state_code": "11",
+          "state_name": "Delta",
+          "source_name": "Delta",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:33",
+          "country_name": "Nigeria",
+          "state_code": "33",
+          "state_name": "Rivers",
+          "source_name": "Rivers",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:24",
+          "country_name": "Nigeria",
+          "state_code": "24",
+          "state_name": "Kwara",
+          "source_name": "Kwara",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:23",
+          "country_name": "Nigeria",
+          "state_code": "23",
+          "state_name": "Kogi",
+          "source_name": "Kogi",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:08",
+          "country_name": "Nigeria",
+          "state_code": "08",
+          "state_name": "Benue",
+          "source_name": "Benue",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:09",
+          "country_name": "Nigeria",
+          "state_code": "09",
+          "state_name": "Borno",
+          "source_name": "Borno",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:21",
+          "country_name": "Nigeria",
+          "state_code": "21",
+          "state_name": "Katsina",
+          "source_name": "Katsina",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:32",
+          "country_name": "Nigeria",
+          "state_code": "32",
+          "state_name": "Plateau",
+          "source_name": "Plateau",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:13",
+          "country_name": "Nigeria",
+          "state_code": "13",
+          "state_name": "Edo",
+          "source_name": "Edo",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:18",
+          "country_name": "Nigeria",
+          "state_code": "18",
+          "state_name": "Jigawa",
+          "source_name": "Jigawa",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:05",
+          "country_name": "Nigeria",
+          "state_code": "05",
+          "state_name": "Anambra",
+          "source_name": "Anambra",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:20",
+          "country_name": "Nigeria",
+          "state_code": "20",
+          "state_name": "Kano",
+          "source_name": "Kano",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:26",
+          "country_name": "Nigeria",
+          "state_code": "26",
+          "state_name": "Nasarawa",
+          "source_name": "Nasarawa",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:22",
+          "country_name": "Nigeria",
+          "state_code": "22",
+          "state_name": "Kebbi",
+          "source_name": "Kebbi",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:17",
+          "country_name": "Nigeria",
+          "state_code": "17",
+          "state_name": "Imo",
+          "source_name": "Imo",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:16",
+          "country_name": "Nigeria",
+          "state_code": "16",
+          "state_name": "Gombe",
+          "source_name": "Gombe",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:03",
+          "country_name": "Nigeria",
+          "state_code": "03",
+          "state_name": "Adamawa",
+          "source_name": "Adamawa",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:36",
+          "country_name": "Nigeria",
+          "state_code": "36",
+          "state_name": "Yobe",
+          "source_name": "Yobe",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:01",
+          "country_name": "Nigeria",
+          "state_code": "01",
+          "state_name": "Abia",
+          "source_name": "Abia",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:14",
+          "country_name": "Nigeria",
+          "state_code": "14",
+          "state_name": "Ekiti",
+          "source_name": "Ekiti",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:30",
+          "country_name": "Nigeria",
+          "state_code": "30",
+          "state_name": "Osun",
+          "source_name": "Osun",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:06",
+          "country_name": "Nigeria",
+          "state_code": "06",
+          "state_name": "Bauchi",
+          "source_name": "Bauchi",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:27",
+          "country_name": "Nigeria",
+          "state_code": "27",
+          "state_name": "Niger",
+          "source_name": "Niger",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:19",
+          "country_name": "Nigeria",
+          "state_code": "19",
+          "state_name": "Kaduna",
+          "source_name": "Kaduna",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:15",
+          "country_name": "Nigeria",
+          "state_code": "15",
+          "state_name": "Enugu",
+          "source_name": "Enugu",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:35",
+          "country_name": "Nigeria",
+          "state_code": "35",
+          "state_name": "Taraba",
+          "source_name": "Taraba",
+          "source_iso": "NGA"
+        },
+        {
+          "region_key": "Nigeria:12",
+          "country_name": "Nigeria",
+          "state_code": "12",
+          "state_name": "Ebonyi",
+          "source_name": "Ebonyi",
+          "source_iso": "NGA"
+        }
+      ]
     }
   }
 }
